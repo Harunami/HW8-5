@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW8</string>
+    <string name="title_home">Search</string>
+    <string name="title_dashboard">Table</string>
+    <string name="title_notifications">Map</string>
+
+    <string name="mpheader">Search for current weather by name or your location.</string>
+    <string name="prompt">Enter City, State or ZIP</string>
+    <string name="studentid">Eric Tran - Z23442841</string>
+    <string name="button1">Search</string>
+    <string name="button2">GPS</string>
+</resources>
