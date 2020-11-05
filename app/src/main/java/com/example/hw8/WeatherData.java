@@ -15,8 +15,8 @@ public class WeatherData {
     private String winddir;
     private String weathermain;
     private String description;
-    private String lon;
-    private String lat;
+    private String lon = "0";
+    private String lat = "0";
 
     //gets
     public String getCity() { return city; }
