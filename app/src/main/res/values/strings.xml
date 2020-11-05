@@ -9,4 +9,5 @@
     <string name="studentid">Eric Tran - Z23442841</string>
     <string name="button1">Search</string>
     <string name="button2">GPS</string>
+    <string name="button3">STT</string>
 </resources>
